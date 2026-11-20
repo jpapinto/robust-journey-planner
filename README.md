@@ -131,3 +131,7 @@ The repository includes notebooks, source code, local artifacts, and generated f
 
 - Julian Dibbelt, Thomas Pajor, Ben Strasser, Dorothea Wagner. [Connection Scan Algorithm](https://arxiv.org/abs/1703.05997), 2017.
 - The implementation uses the paper's profile-query framing and adapts the CSA scan for confidence-aware routing under learned delay uncertainty.
+
+---
+
+This repository is a copy of [JonKuqi/robust-journey-planner](https://github.com/JonKuqi/robust-journey-planner), the public release of Team J1's project for EPFL COM-490. The original development history is kept in the course's private GitLab.
